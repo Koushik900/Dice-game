@@ -22,7 +22,7 @@ document.querySelector(".restart").addEventListener("click", function()
 {
   img1.setAttribute("src","images/dice1.png");
   img2.setAttribute("src","images/dice1.png");
-  document.querySelector("h1").innerHTML = "Restart the Game";
+  document.querySelector("h1").innerHTML = "Play the Game";
 });
 
 document.querySelector(".click").addEventListener("click", function(){
